@@ -48,7 +48,7 @@ const HomePage = () => {
     <div className="homepage">
       <header className="header">
         <h1>Welcome to the News Website</h1>
-        <p>Your source for the latest headlines</p>
+       
       </header>
 
       {/* Category Filter */}
